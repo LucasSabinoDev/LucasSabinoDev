@@ -1,4 +1,4 @@
-<p align="left">Hey guys !!! I'm Lucas Sabino, <br>Technology has conquered me, I want to help in what I know, learn more and develop myself in the area. 🦁⚛️☯️✡️🎮🏔️🏕️🏖️🎷🏊🏻💪🏻<br>                  <br>Programming languages I'm learning:</p>
+<p align="left">Hey guys !!! I'm Lucas Sabino, <br>Technology has conquered me, I want to help in what I know, learn more and develop myself in the area. <br>🦁⚛️☯️✡️🎮🏔️🏕️🏖️🎷🏊🏻💪🏻<br>                  <br>Programming languages I'm learning:</p>
 
 ###
 
